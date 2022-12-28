@@ -12,7 +12,7 @@ background-color: Lavender;
 li{
   display: inline;
   padding: 13px;
-  float: right;
+  float: left;
 }
 
 li:hover{
