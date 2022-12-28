@@ -1,6 +1,6 @@
-body {background-color:purple}
-h2 {color: yellow; text-align: center; 
-}
+body {
+  background-color:purple}
+
 nav {
   list-style-type: none;
 background-color: Lavender;
@@ -9,18 +9,31 @@ background-color: Lavender;
   top: 0;
   left: 0;
 }
-
 li{
   display: inline;
-  padding: 1%;
+  padding: 13px;
+  float: right;
 }
+
 li:hover{
   background-color: gold;
 }
-a{
+a {
   text-decoration: none;
   color: orange
 }
-img {width: 150px;
-border: dashed blue}
-img:hover {width:200px; border: red 2px}
+
+h2 {
+  color: yellow; 
+  text-align: center; 
+}
+
+img {
+  width: 150px;
+  border: dashed blue 5px;
+}
+
+img:hover {
+  width:200px; 
+  border: red 2px;
+}
