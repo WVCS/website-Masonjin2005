@@ -44,3 +44,10 @@ img:hover {
   width:250px; 
   border: red 2px;
 }
+
+p {
+  font-family: arial;
+  font-size: 90%;
+  color: lavender;
+  text-align: center;
+}
