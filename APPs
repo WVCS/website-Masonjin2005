@@ -1,4 +1,32 @@
- <br>
+<html>
+<head>
+  <link rel="stylesheet" href="APPstyle.css">
+  <link rel="icon" type="image/x-icon" href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.previewsworld.com%2FCatalog%2FFEB198022&psig=AOvVaw1tVSZ8DvHyCHwZ7X2X6FPx&ust=1670368048926000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNCnq4bM4_sCFQAAAAAdAAAAABAD">
+  <title> Mason's Den </title>
+  <br>
+
+<body>
+    <nav>
+      <li><a href="index.html"> HOME </a></li>
+        <li><a href="PHOTO.html"> PHOTO </a></li>
+      <li><a href="https://github.com/WVCS/website-Masonjin2005/APPs"> APPs </a></li>
+  </nav>
+<br>
+  <h1> Hello there! <h1>
+  
+   <h2> Mason's Web <h2> 
+    
+   <img src="https://static.wixstatic.com/media/05dd13_1c776ac6358a42fa81c7f8f9bc1ec1cf~mv2.jpeg/v1/crop/x_92,y_0,w_3848,h_3024/fill/w_1438,h_1130,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Abby%20and%20I.jpeg">
+   <br>
+     <pre>Yay! Welcome to my website! 
+     My name is Mason Jin, and I'm currently a student photographer based in San Diego. 
+     This is a project for my AP CSP class. You can check out the apps I made for the class (they are not that good though) 
+    and some of my photo projects. Thank you again for stopping by. Have a wonderful day!
+    <br>
+    Instagram: masonjin_art
+    </pre>
+     <br>
+     <br>
      <iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/B4fa0jOAGMn-iamVvaykFw5dWoQEfJxiPHmrqy7va8f/embed?nosource"></iframe>
      <iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/5QkAAnpTQ2KA30DM8ayqzaogY7jHrcLxAsbe45Tm7uO/embed?nosource"></iframe>  </body>
 
